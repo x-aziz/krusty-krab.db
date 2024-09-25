@@ -1,0 +1,33 @@
+// [
+//     {
+//       "type": "recipe",
+//       "name": "Krabby Patty",
+//       "price": 3.99,
+//       "ingredients": ["bun", "patty", "lettuce", "tomato", "secret sauce"]
+//     },
+//     {
+//       "type": "recipe",
+//       "name": "Kelp Shake",
+//       "price": 1.49,
+//       "ingredients": ["kelp", "shake mix", "water"]
+//     },
+//     {
+//       "type": "employee",
+//       "name": "Spongebob Squarepants",
+//       "position": "Fry Cook",
+//       "age": 22
+//     },
+//     {
+//       "type": "employee",
+//       "name": "Squidward Tentacles",
+//       "position": "Cashier",
+//       "age": 30
+//     },
+//     {
+//       "type": "employee",
+//       "name": "Valor",
+//       "position": "Manager",
+//       "age": 28
+//     }
+//   ]
+  

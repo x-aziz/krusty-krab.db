@@ -1,0 +1,4 @@
+#  all receptions 
+db.krusty_krab.find({ type: "recipe" })
+#  all employees 
+db.krusty_krab.find({ type: "employee" })
